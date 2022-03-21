@@ -18,20 +18,20 @@
 
 游戏主界面演示
 
-![主界面演示](Assets\主界面演示.png)
+![主界面演示](Assets/主界面演示.png)
 
 召唤玩法演示
 
-![召唤演示](Assets\召唤演示.png)
+![召唤演示](Assets/召唤演示.png)
 
 攻击玩法演示
 
-![攻击演示](Assets\攻击演示.png)
+![攻击演示](Assets/攻击演示.png)
 
 元素反应及Buff演示
 
-![反应及Buff演示](Assets\反应及Buff演示.png)
+![反应及Buff演示](Assets/反应及Buff演示.png)
 
 元素反应连锁演示
 
-![反应连锁演示](Assets\反应连锁演示.png)
+![反应连锁演示](Assets/反应连锁演示.png)
