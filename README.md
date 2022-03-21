@@ -1,6 +1,6 @@
 # genpai-release
 
-![genpai-ico](Assets\genpai-ico.jpg)
+![genpai-ico](Assets/genpai-ico.jpg)
 
 该仓库为项目《原牌》（《原魔：恶诞之花》)的发布区
 
